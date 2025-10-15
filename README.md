@@ -1,7 +1,5 @@
 # RC Plane FPGA Autopilot - Task List
 
-Copy this into your GitHub README.md and check off tasks as you complete them!
-
 ---
 
 ## 📋 Project Tasks
